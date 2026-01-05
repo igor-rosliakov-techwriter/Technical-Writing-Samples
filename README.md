@@ -12,8 +12,6 @@ The original articles are published in Russian. For each piece, I provide an
 English summary to give international readers quick access to the context,
 technical scope, and key ideas.
 
----
-
 ## Background Asynchronous Tasks in FastAPI
 
 This article explains how background asynchronous tasks can be implemented
@@ -30,8 +28,6 @@ to document such workflows clearly.
 
 [Original article (RU)](https://habr.com/ru/companies/kts/articles/816757/)
 
----
-
 ## Message Processing Architecture in a Chatbot Platform
 
 This article describes the architecture of a message processing system using
@@ -46,8 +42,6 @@ The material can be used as a reference for backend engineers and technical writ
 working on message-driven systems or onboarding documentation for similar platforms.
 
 [Original article (RU)](https://habr.com/ru/companies/kts/articles/697024/)
-
----
 
 ## Extending JupyterHub with Kubeflow Features Without Full Integration
 
@@ -64,8 +58,6 @@ Kubernetes-based systems, internal platform tooling, and infrastructure architec
 
 [Original article (RU)](https://habr.com/ru/companies/kts/articles/832084/)
 
----
-
 ## Using npm and yarn link for Local Library Development
 
 This article explains how npm and yarn link can be used to connect local libraries
@@ -80,8 +72,6 @@ The material is relevant for frontend and full-stack developers, as well as
 technical writers documenting development workflows and developer tooling.
 
 [Original article (RU)](https://habr.com/ru/companies/kts/articles/821111/)
-
----
 
 ## Educational Materials
 
