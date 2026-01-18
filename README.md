@@ -1,4 +1,4 @@
-# Technical Writing Samples
+# Developer-Focused Technical Writing Samples
 
 This repository contains a curated collection of my technical writing samples,
 focused on developer-facing documentation and technical explanations.
